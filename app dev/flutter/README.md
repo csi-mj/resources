@@ -23,11 +23,6 @@ And that's it you're good to go!
 
 ## Flutter YouTube tutorials
 
-- Complete Dart Flutter tutorial
-  [![Tutorial 1](https://i.ytimg.com/vi/CzRQ9mnmh44/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcPp_sFmdmU7hzXybLrqmdODBieQ)](https://www.youtube.com/watch?v=CzRQ9mnmh44&t=95s)
-
-- Flutter tutorial with SQL DB
-  [![Tutorial 2]([https://i.ytimg.com/vi/CzRQ9mnmh44/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcPp_sFmdmU7hzXybLrqmdODBieQ](https://i.ytimg.com/vi/VPvVD8t02U8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFcUCfEkTeYw0ujAPRyhVQYkD_kQ))]([https://www.youtube.com/watch?v=CzRQ9mnmh44&t=95s](https://www.youtube.com/watch?v=VPvVD8t02U8))
-  
-- Flutter UI tutorial
-  [![Tutorial 3](https://i.ytimg.com/an_webp/x4DydJKVvQk/mqdefault_6s.webp?du=3000&sqp=COyol6sG&rs=AOn4CLD_0hQ0zKNslz8eAe0JzTxsu5gNtw)](https://www.youtube.com/watch?v=x4DydJKVvQk&t=1841s)
+- [Complete Dart and Flutter Masterclass](https://www.youtube.com/watch?v=CzRQ9mnmh44&t=95s)
+- [Flutter tutorial with SQL DB](https://www.youtube.com/watch?v=VPvVD8t02U8)
+- [Flutter UI tutorial](https://www.youtube.com/watch?v=x4DydJKVvQk&t=1841s)
