@@ -26,3 +26,24 @@ And that's it you're good to go!
 - [Complete Dart and Flutter Masterclass](https://www.youtube.com/watch?v=CzRQ9mnmh44&t=95s)
 - [Flutter tutorial with SQL DB](https://www.youtube.com/watch?v=VPvVD8t02U8)
 - [Flutter UI tutorial](https://www.youtube.com/watch?v=x4DydJKVvQk&t=1841s)
+> We recommend watching these tutorials in the order they appear!
+
+## Flutter Playlists
+
+- [All flutter widgets](https://www.youtube.com/playlist?list=PL1WkZqhlAdC8enpcvzv_uAS9FmHTDOCJ8)
+- [All Flutter packages](https://www.youtube.com/playlist?list=PL1WkZqhlAdC9shbzjQao6cdzqB_Wu7Hr4)
+- [Flutter State management](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
+- 
+## Flutter YouTube channels
+
+- [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
+- [Vandad Nahavandipoor](https://www.youtube.com/@VandadNP)
+- [HeyFlutter](https://www.youtube.com/@HeyFlutter)
+- [Dbestech](https://www.youtube.com/@dbestech)
+
+## Important Flutter websites
+
+- [Pub.dev for packages](https://pub.dev/)
+- [Flutter gems: A curated collection of packages](https://fluttergems.dev/)
+- [Flutter Gallery: Visualize flutter components](https://gallery.flutter.dev/#/)
+- [FlutterX: Alternative to Flutter gems](https://flutterx.com/)
