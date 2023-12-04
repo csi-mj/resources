@@ -2,8 +2,6 @@
 # Web Dev Beginner's Guide 🚀
 ## _Learn web development from scratch_
 
-Welcome to Flutter, a cutting-edge UI toolkit crafted by Google for building natively compiled applications across mobile, web, and desktop platforms. Flutter empowers developers with a single codebase, ensuring efficiency, expressive UIs, and native performance.
-
 This guide contains:
 - Free web dev courses on YouTube
 - Official web dev resources
