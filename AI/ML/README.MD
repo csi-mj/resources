@@ -33,18 +33,16 @@
 
 3. ## Machine Learning
 
-   Machine learning course [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/)
    Machine learning colab notebooks [SuperDataScience](https://www.superdatascience.com/pages/machine-learning)
-   Use this course and notebooks to learn about various machine learning concepts and algorithms and implementation
+   Use these notebooks to learn about various machine learning concepts and algorithms and implementation
 
    Machine learning is a field of artificial intelligence (AI) that focuses on developing algorithms and systems that enable computers to learn and improve from experience without being explicitly programmed. The fundamental idea behind machine learning is to enable computers to identify patterns, learn from data, and make decisions or predictions based on that learning.
 
 4. ## Tensorflow
 
-   Tensorflow course [Udemy course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
    Tensorflow colab notebooks [Github repo](https://github.com/mrdbourke/tensorflow-deep-learning/)
    Tensorflow tutorials [Link](https://www.tensorflow.org/tutorials)
-   Use this course and notebooks to learn about tensorflow and how to use it for various purposes
+   Use these to learn about tensorflow and how to use it for various purposes
    It'll show u how to use tensorflow to train different types of neural networks, introduces u to some advanced topics as well
    TensorFlow is an open-source machine learning framework developed by Google Brain for building and training machine learning models. It provides a comprehensive ecosystem of tools, libraries, and resources to develop and deploy machine learning applications efficiently
 
