@@ -1,6 +1,6 @@
 
-# Flutter Beginner's Guide 🚀
-## _Learn cross platform app development with flutter from scratch_
+# DevOps Beginner's Guide 🚀
+## _Learn devops development with flutter from scratch_
 
 Welcome to Flutter, a cutting-edge UI toolkit crafted by Google for building natively compiled applications across mobile, web, and desktop platforms. Flutter empowers developers with a single codebase, ensuring efficiency, expressive UIs, and native performance.
 
