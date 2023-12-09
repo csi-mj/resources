@@ -50,8 +50,8 @@ And that's it you're good to go!
 
 ## Official Flutter docs
 
-- [Flutter widget catalog]([https://pub.dev](https://docs.flutter.dev/ui/widgets)
-- [Layout building]([https://fluttergems.dev/](https://docs.flutter.dev/ui/layout)
+- [Flutter widget catalog](https://docs.flutter.dev/ui/widgets)
+- [Layout building](https://docs.flutter.dev/ui/layout)
 - [Navigation in Flutter](https://docs.flutter.dev/ui/navigation)
 - [Flutter codelabs](https://docs.flutter.dev/codelabs)
 
