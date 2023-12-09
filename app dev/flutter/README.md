@@ -48,6 +48,13 @@ And that's it you're good to go!
 - [Flutter Gallery: Visualize flutter components](https://gallery.flutter.dev/#/)
 - [FlutterX: Alternative to Flutter gems](https://flutterx.com/)
 
+## Official Flutter docs
+
+- [Flutter widget catalog](https://docs.flutter.dev/ui/widgets)
+- [Layout building](https://docs.flutter.dev/ui/layout)
+- [Navigation in Flutter](https://docs.flutter.dev/ui/navigation)
+- [Flutter codelabs](https://docs.flutter.dev/codelabs)
+
 ### Note: Keeping Resources Updated
 
 At CSI MJCET, we strive to provide you with the latest and most valuable resources. However, in the fast-paced world of technology, it's possible that some resources may become outdated.
